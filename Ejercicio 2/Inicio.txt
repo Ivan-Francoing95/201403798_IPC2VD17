@@ -1,8 +1,8 @@
-Titulo: Apuntes de Algoritmos y Estructuras de Datos
+Ttl: pnts d lgrtms y strctrs d Dts
 
-1.1. Tiempo de Ejecucion
-Nos interesa analizar y comparar diferentes algoritmos para saber cual es mas efciente.
+1.1. Tmp d jccn
+Ns ntrs nlzr y cmprr dfrnts lgrtms pr sbr cl s ms fcnt.
 
-Una forma de hacerlo es escribir el codigo de cada algoritmo, ejecutarlos con diferentes entradas y medir el tiempo de reloj que demora cada uno.
+n frm d hcrl s scrbr el cdg d cd lgrtm, jctrls cn dfrnts ntrds y mdr l tmp d rlj q dmr cd n.
 
-Pagina: 10
+Pgn: 10
