@@ -1,0 +1,9 @@
+Commit:
+un commit segun mi punto de vista es una manera de guardar cambios de un archivo para poder subirlos mediante un push o si el archivo existe es la forma en la que este archivo puede modificarse y asi mismo cargarlos mediante un push.
+
+Merge:
+basicamente Merge es una manera de fusionar las ramas que existan y asi poder realizar una modificacion de los archivos implicados.
+
+Diferencia entre Pull y Push:
+
+Basicamente un Pull es el que se encarga de bajar los cambios de una rama determinada y la actualiza con su repositorio actual, mientras que un Push es el que se encarga de subir dichos cambios para actualizar los archivos en el repositoio.
