@@ -1,0 +1,8 @@
+Titulo: Apuntes de Algoritmos y Estructuras de Datos
+
+1.1. Tiempo de Ejecucion
+Nos interesa analizar y comparar diferentes algoritmos para saber cual es mas efciente.
+
+Una forma de hacerlo es escribir el codigo de cada algoritmo, ejecutarlos con diferentes entradas y medir el tiempo de reloj que demora cada uno.
+
+Pagina: 10

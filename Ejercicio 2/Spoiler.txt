@@ -1,0 +1,7 @@
+Titulo: Programacion Funcional
+
+Aunque se puede usar el simbolo @ en simbolos de operadores, se ha reservado un solo @ para esta construccion. 
+
+Tambien podemos usar el patron @ en de?niciones de funciones que ya han aparecido. Por ejemplo, en la funcion dropWhile:
+
+Pagina: 80
